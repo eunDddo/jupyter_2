@@ -9,6 +9,7 @@ dependencies = [
     "langgraph-checkpoint-sqlite>=2.0",
     "langchain-core>=0.3",
     "chromadb>=0.5",
+    "beautifulsoup4>=4.12",
     "pypdf>=5.0",
     "pydantic>=2.7",
     "typing-extensions>=4.11",
